@@ -6,8 +6,8 @@ _____
 - 9 septembre 2021 : réunion de rentrée
 - Du 10 au 29 septembre 2021 : faire les paragraphes 1, 2 et 3.
 - Séance en présentiel le 30 septembre 2021 après-midi.
-- Du 1 octobre au 24 octobre 2020 : faire les paragraphes 4, 5 et 6.
-- Séances en présentiel les mardi 26 octobre (toute la journée) mercredi 27 octobre 2020 (9h-13h).
+- Du 1 octobre au 24 octobre 2021 : faire les paragraphes 4, 5 et 6.
+- Séances en présentiel les lundi 25 (toute la journée), mardi 26 octobre et mercredi 27 octobre 2021 (9h-14h).
 ______
 
 Les ressources pédagogiques offrent plusieurs niveaux de lecture ou d'utilisation afin d'être au mieux adaptées à un public hétérogène. Plus précisément il faut voir ce certificat comme une introduction à la *Science des Données* qui propose des pistes et références pour des approfondissements ultérieurs.
@@ -140,7 +140,7 @@ Vous trouverez ci-après, sans caractère limitatif, une liste de sujets auxquel
 - Quel est le « bon » modèle à choisir : nombre de paramètres, valeurs des paramètres,... ?;
 - ...
 
-Vous pouvez également nous soumettre ce travail (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr ou via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
+Vous pouvez également nous soumettre ce travail (florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via [Moodle](https://foad-uftmip.univ-toulouse.fr/)), sous la forme d’un notebook R ou d’une application Shiny pour information et retour, si besoin.
 
 
 _____
@@ -226,18 +226,4 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 <ins> Séance en présentiel le mercredi 27 octobre 2020, matin. </ins>
 
-## 9 Projet de fin de module 
 
-L’objectif de ce projet est de concevoir une application Big Data et de la déployer dans une infrastructure de calcul. Le projet se compose de **deux parties** :
-- Pour **la partie data** : Il s'agit de développer en Spark une méthode de gradient, dans le but de résoudre un problème de filtrage collaboratif, et de la comparer avec une méthode de la librairie MLIB. (Le sujet & les données ainsi que les explications sont dans le fichier [ici](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/projet_partie_data.zip)).
-- Pour **la partie infra** : Il s’agit d’installer et utiliser Spark/HDFS en cluster et d’évaluer sa scalabilité. (Le sujet + les explications pour les deux options sont disponibles sur le site de Daniel HAGIMONT: [http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html))
-
-**Pour la partie infra vous avez 2 options :**
-- Option Docker (ATTENTION, cette option est uniquement possible si vous utilisez Linux (une clé usb bootable, dual boot, etc.)) 
-- Option AWS/autre plateforme cloud
-
-Vous aurez donc **deux notes** pour ce projet, une par partie : A – Excellent ; B – Bien ; C – Moyen ; D – Insuffisant ; E – Aucun rendu.
-
-Pour pouvoir soumettre le projet il faut [avoir choisi un groupe sur moodle](https://foad.univ-toulouse.fr/mod/choicegroup/view.php?id=1081).
-
-**ATTENTION : les deux parties sont à soumettre [sur moodle avant le 31 janvier 2021](https://foad.univ-toulouse.fr/mod/assign/view.php?id=1090)**.
