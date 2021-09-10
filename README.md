@@ -63,7 +63,7 @@ Le langage de programmation R est un langage reconnu pour l’analyse statistiqu
 - De nombreux sites internet sont dédiés aux utilisateurs de R, parmi lesquels : www.r-bloggers.com (the «  R blogosphere »), https://datascienceplus.com/ (online learning resource), https://www.datacamp.com/ (online learning resource).
 
 ### 1.2 Travail personnel demandé 
-L’exercice que vous soumettrez au terme de ce module, par trinôme, vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr ou via Slack) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
+L’exercice que vous soumettrez au terme de ce module, par trinôme, vous permettra d’acquérir des compétences en langage R. Vous êtes invité à contacter vos enseignants (florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via Slack) pour vous aider dans la réalisation de ce travail. L’exercice porte sur la manipulation de variables aléatoires et leurs distributions statistiques, un des socles de l’analyse statistique de données.
 
 Soit X1 et X2 deux variables aléatoires indépendantes qui suivent une loi normale ou bien une loi uniforme, au choix. Écrivez en langage *R* les 6 fonctions (p, d, q, r, e et v)CertificatBigData, dans un même script R, qui permettent de calculer la fonction de répartition CDF (pour *Cumulative Distribution Function*), la fonction densité de probabilité PDF (pour *Probability Density Function*), les quartiles, la génération de nombres aléatoires, la moyenne et la variance des variables Y = X1+X2, Z = X1×X2 et Z = X1÷X2. Les dites fonctions produiront, selon le choix de l’utilisateur, les graphes pertinents qui permettent de visualiser les résultats attendus de ces 6 fonctions.
 
@@ -113,7 +113,7 @@ Le travail attendu est un travail personnel d’autoévaluation de votre maîtri
 - Tester la nullité du coefficient de corrélation linéaire ;
 - ...
 
-Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en <ins> ligne du 1er octobre </ins> et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et pascal.floquet@ensiacet.fr ou via Slack).
+Toutes ces études feront l’objet d’une restitution en groupe lors de la séance en <ins> ligne du 1er octobre </ins> et de discussions lors des séances hors présentiel (contactez alors les enseignants florent.bourgeois@ensiacet.fr et rachid.ouaret@ensiacet.fr ou via Slack).
 
 
 ## 3 Modélisation statistique
@@ -201,7 +201,7 @@ D'autres exemples sont disponibles dans le dépôt [`github - wikistat - Explora
 
 **Travail personnel demandé**: Préparer les réponses aux questions **Q** qui jalonnent chaque tutoriel.
 
-### 6.3 Présentiel le lundi 25 octobre 2021 après midi
+### 6.3 Présentiel le lundi 25 octobre 2021 
 
 - Revue des points délicats du cours et des questions soulevées dans les tutoriels
 
@@ -212,18 +212,10 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 7 Optimisation
 
-*Le cours est disponible dans le fichier Documents*
-[Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Documents/cours_Optimisation_29102019.pdf)
-
-*Le TP est disponible dans le fichier Calepins - c'est un jupyter notebook*
-[TP Optimisation](https://github.com/Certificat-sciences-des-donnees-bigdata/Module-sensibilisation/blob/master/Calepins/tp1_certificat_etudiant.ipynb)
-
 <ins> Séance en présentiel le mardi 26 octobre 2021. </ins> 
 
 ## 8 Techniques de virtualisation et containerisation, les plateformes cloud
 
-[Cours](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certif-cloud.pdf) et [séance de TP le 27 octobre](http://sd-127206.dedibox.fr/hagimont/resources-N7/certificat/certificat.html). Aucun travail personnel est demandé. 
-
-<ins> Séance en présentiel le mercredi 27 octobre 2020, matin. </ins>
+<ins> Séance en présentiel le mercredi 27 octobre 2021 </ins>
 
 
