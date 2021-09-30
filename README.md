@@ -89,7 +89,6 @@ Pour celles et ceux qui veulent s’amuser, il vous est proposé en option au tr
 
 **Le projet doit être soumis via [Moodle](https://foad-uftmip.univ-toulouse.fr/)**
 
-La solution est disponible [ici](https://github.com/Certificat-science-des-donnees-bigdata/Module-sensibilisation/blob/master/CertificatBigData2020_Calcul_Statistique_SolutionRO.R)
 
 ## 2 Éléments d’analyse statistique de données
 *A faire sur la période du 10/09 au 29/09*
