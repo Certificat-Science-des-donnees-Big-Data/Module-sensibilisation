@@ -216,7 +216,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 <ins> Séance en présentiel le mardi 26 octobre 2021. </ins> 
 
-- [Slides du cours] : (https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/slides_Oct26_optim.pdf)
+- [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/slides_Oct26_optim.pdf)
 
 ## 8 Techniques de virtualisation et containerisation, les plateformes cloud
 
