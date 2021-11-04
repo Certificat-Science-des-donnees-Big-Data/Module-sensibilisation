@@ -225,4 +225,7 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 - [Slides du cours](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/certificat%20Big%20Data-CM%20virtualisation-containerisation-cloud%2028oct2020.pdf)
 
+## Projet de fin de module
+
+A venir
 
