@@ -227,5 +227,5 @@ D'autres exemples sont disponibles dans le dépôt [`github-wikistat-Apprentissa
 
 ## 9 Projet de fin de module
 
-A venir
-
+- [Sujet du projet](https://github.com/Certificat-Science-des-donnees-Big-Data/Module-sensibilisation/blob/master/Documents/Sujet%20projet%20fin%20de%20module%20sensibiliation%202021.pdf)
+- Informations soumission du projet (à venir)
